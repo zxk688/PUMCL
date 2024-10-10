@@ -3,7 +3,7 @@
 This is a repository for releasing a PyTorch implementation of our work [Prototypical Unknown-Aware Multiview Consistency Learning for Open-Set Cross-Domain Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10707611).
 
 
-If you find this dataset useful for your research, please cite our paper:
+If you find this repository useful for your research, please cite our paper:
 ```
 @ARTICLE{10707611,
   author={Zhang, Xiaokang and Wu, Wanjing and Zhang, Mi and Yu, Weikang and Ghamisi, Pedram},
